@@ -1,0 +1,22 @@
+First screen: 
+			POP UP SCREEN IN JAVASCRIPT
+			TERMS AND CONDITIONS:
+
+			MESSAGE TO BE DISPLAYED:
+			 WELCOME TO MEDICAL DATA VISUALIZATION, YOUR  ONLINE MEDICAL DATA PROJECTION SPOT.
+			 SINCE YOU ARE VISITING THIS SITE FOR THE FIRST TIME, WE WOULD WANT YOU TO GO THROUGH OUR TERMS AND CONDITIONS BEFORE VISITING THE NEXT PAGE. FOLLOWING ARE THE TERMS AND CONDITIONS THAT YOU NEED TO AGREE BEFORE USING THIS WEBPAGE.
+			 
+			 1. This application consists of medical related data.
+			 
+			 2. MEDICAL DATA ARE ACCESED FROM DIFFERENT HOSPITALS AND MEDICAL INSTITUTIONS OF NEPAL, WCHICH ARE LEGAL ASSESTS OF THOSE INSTITUTIONS AND ORGANISATIONS. NO SUCH DATAS WILL BE PUBLISHED.
+			 
+			 3. RESOURCE PROVIDER'S DETAILS WILL NOT BE DISCLOSED.
+			 
+			 4. User or organisation is free to use these visualization for the purpose of demonstration, only after receiving the administrator's permission.
+			 
+			 In case of any user or organisation found using our visulized data for their personal purpose and minupulating it against the law, such user or organisation will be punished according to the law.
+
+			 4. User or organisation should do a paper agreement in order to receive the visualized information from the administrator. 
+ 			 5. Incase of any misuse of the data provided from this application against the law, individual or organisation will be accused and will be punished according to the law.
+
+ 			 #WE CAN ADD AS MANY TERMS AND CONSITIONS WE LIKE.
